@@ -2,7 +2,7 @@
 Original Copy of CarGo Repository
 
 # Website Link
-[Enter Website](https://plushb9rry.github.io/CarGo-Ol/)
+[Click Here](https://plushb9rry.github.io/CarGo-Ol/)
 
 
 
