@@ -19,6 +19,8 @@ Original Copy of CarGo Repository
 - Add more integration features on selecting more cars and comapring 
 
 - User defined price sorting
+
+- followed by [NaF](https://m1a7x2y9.github.io/NF/) principal 
  
   
 ## Feedback
