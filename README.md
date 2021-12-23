@@ -20,7 +20,7 @@ Original Copy of CarGo Repository
 
 - User defined price sorting
 
-- followed by [NaF](https://m1a7x2y9.github.io/NF/) principal 
+- [NaF](https://m1a7x2y9.github.io/NF/) approach 
  
   
 ## Feedback
