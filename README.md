@@ -20,7 +20,14 @@ Original Copy of CarGo Repository
 
 - User defined price sorting
 
+
+## Lessons
+
+- Creative ideas including many different computer languages
+
 - [NaF](https://m1a7x2y9.github.io/NF/) approach 
+
+- working with dynamic css
  
   
 ## Feedback
