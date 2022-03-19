@@ -43,7 +43,7 @@ If you have any feedback, please reach out to me at exlphy@gmail.com
 
 - [Car Dekho dot com](https://www.cardekho.com/)
 
-- other car comapny sites
+- other car comapny websites
 
 
 ## Authors
