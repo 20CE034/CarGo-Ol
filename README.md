@@ -1,6 +1,4 @@
-
-![Logo](https://cdn.discordapp.com/attachments/794818958686552145/908669882369982464/logo.png)
-
+![cargo-removebg-preview](https://user-images.githubusercontent.com/94553525/173599084-8fa82c14-07ea-48c2-8b7a-c1a2e4922914.png)
 
 
 # CarGo-Ol
